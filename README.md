@@ -1,7 +1,7 @@
 ## Olá, eu sou a Paloma Queiroz.
 
 - 🔭 Em transição de carreira.
-- 🌱 Participando de um Bootcamp - Front-End Developer - Laboratória - Aprendendo JavaScript e Firebase (atualmente).
+- 🌱 Participando de um Bootcamp - Front-End Developer - Laboratória - Aprendendo JavaScript e Firebase (projeto rede social).
 - 📫 Contacte-me pelo e-mail: palomacqueiroz@hotmail.com.
 - 😄 Pronouns: ela/she/ella.
 
