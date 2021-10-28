@@ -1,8 +1,12 @@
-## Olá, eu sou a Paloma Queiroz.
+## Hello, I'm Paloma Queiroz.
+- :computer: I'm Front-End Developer Jr!
 
-- 🔭 Em transição de carreira.
-- 🌱 Participando de um Bootcamp - Front-End Developer - Laboratória - Aprendendo React, JavaScript (projeto Burguer Queen).
-- 📫 Contacte-me pelo e-mail: palomacqueiroz@hotmail.com.
+- :house_with_garden: I’m from Brazil.
+
+- :books: I’m currently in a Bootcamp - Front-End Developer at Laboratória.
+
+- :outbox_tray: 2021 Goals: study and find a new job as developer.
+
 - 😄 Pronouns: ela/she/ella.
 
 <div>
