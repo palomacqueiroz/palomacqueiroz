@@ -3,9 +3,9 @@
 
 - :house_with_garden: I’m from Brazil.
 
-- :books: I’m currently in a Bootcamp - Front-End Developer at Laboratória.
+- :books: I’m currently in a Bootcamp Java.
 
-- :outbox_tray: 2021 Goals: study and find a new job as developer.
+- :outbox_tray: 2022 Goals: keep study and share your knowledge.
 
 - 😄 Pronouns: ela/she/ella.
 
@@ -20,6 +20,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="SCSS" height="30" width="50" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
   
   ##
