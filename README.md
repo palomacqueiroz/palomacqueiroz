@@ -5,7 +5,7 @@
 
 - :books: I’m currently in a Bootcamp Java.
 
-- :outbox_tray: 2022 Goals: keep study and share my knowledge.
+- :outbox_tray: 2022 Goals: keep studying and share my knowledge.
 
 - 😄 Pronouns: ela/she/ella.
 
